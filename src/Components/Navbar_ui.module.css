@@ -1,0 +1,51 @@
+.box{
+display: flex;
+justify-content: space-between;
+
+width: 600px;
+padding: 10px;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+
+}
+
+.box p{
+    color: gray;
+}
+
+.box h2{
+    color: black;
+    font-weight: 700;
+}
+
+button{
+    color: hotpink;
+    height: 40px;
+    width: 90px;
+  
+
+}
+.end p{
+    color: gray;
+}
+
+.end{
+    display: flex;
+    width: 150px;
+    justify-content: space-between;
+    
+    margin-right: 15px;
+}
+.btn{
+    padding: 7px;
+}
+
+.line{
+    width: 100%;
+    border-bottom: 1px solid rgb(187, 181, 181);
+    margin-top: 8px;
+}
